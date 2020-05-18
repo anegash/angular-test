@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+.menu-body {
+  position: relative;
+  float: left;
+  width: 100%;
+  height: 78px;
+}
+.logo-div {
+  position: relative;
+  float: left;
+  width: 10%;
+}
+.header-envirnment {
+  width: 5%;
+  padding-top: 20px;
+  position: relative;
+  float: left;
+}
+
+
+.count-input > a {
+  cursor: pointer;
+  user-select: none;
+}
